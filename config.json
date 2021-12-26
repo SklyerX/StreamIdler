@@ -1,0 +1,6 @@
+{
+    "accountName": "ENTER YOUR STEAM ACCOUNTS USERNAME",
+    "password": "ENTER YOUR STEAM ACCOUNTS PASSWORD",
+    "gameId": "730", "ALERT": "you can set the game that you want to idle on by adding the game id. CSGO = 730. you can find these by searching. <gameName> app id",
+    "persona": "1", "COMMENT": "0 = offline, 1 = online, 2 = busy, 3 = away, 4 = snooze, 5 = LookingToTrade, 6 = LookingToPlay, 7 = invisible"
+}
